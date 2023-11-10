@@ -1,3 +1,4 @@
+![logo](https://github.com/gagan-bajwa/gagan-bajwa/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Gagandeep Singh Bajwa</h1>
 <h3 align="center">An enthusiastic Data Scientist and ML Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day10.gif?fit=800%2C600&ssl=1">
