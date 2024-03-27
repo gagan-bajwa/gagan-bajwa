@@ -4,13 +4,15 @@
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day10.gif?fit=800%2C600&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan-bajwa&label=Profile%20views&color=0e75b6&style=flat" alt="gagan-bajwa" /> </p>
 
-- 🔭 I’m currently working on **Cement Strength Calculator**
+- 🔭 I’m currently working on **Smart Form AI**
 
 - 🌱 I’m currently learning **GAN's**
 
 - 💬 Ask me about **python,ML/DL algos, industry level programming**
 
 - 📫 How to reach me **gsb141991@gmail.com**
+
+- 📫 For my CV: https://www.linkedin.com/in/gagandeep-bajwa-46937043/details/featured/1711553909591/single-media-viewer/?profileId=ACoAAAkhTZEBOwH50hUhbnY3R3GAdmzOmsv1NWU
 
 - ⚡ Fun fact **I am funny when I don't meant to be.**
 
